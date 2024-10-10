@@ -4,7 +4,7 @@
 	import Cloud from '$lib/components/icons/Cloud.svelte';
 
 	let data: WeatherResponse | undefined;
-	const apiKey = '3e70984fc4d9b8d73c63a8211c3290c7'; // Replace with your OpenWeather API key
+	const apiKey = ''; // Replace with your OpenWeather API key
 	const city = 'Jakarta'; // City to display
 
 	const fetchWeather = () => {
