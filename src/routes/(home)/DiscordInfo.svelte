@@ -3,7 +3,7 @@
 	import Discord from '$lib/components/icons/Discord.svelte';
 	import { onDestroy } from 'svelte';
 
-	const discordId = '391800933480398850';
+	const discordId = ''; //change to your user id discord
 	const lanyard = useLanyard({
 		method: 'rest',
 		id: discordId
