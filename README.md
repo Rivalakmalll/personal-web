@@ -39,6 +39,7 @@ Example .env content
 ```
 SPOTIFY_CLIENT_ID=your_spotify_client_id
 SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
+SPOTIFY_REFRESH_TOKEN=your_refresh_token
 ```
 # 5. Run the Project Locally
 ```bash
@@ -113,6 +114,10 @@ npm run build
 - [ ] adding skill pages
 - [ ] make the login acces to use gusestbook
 - [ ] blog page
+
+## License
+
+Licensed under the [GPL-3.0 license]().
 
 
 
