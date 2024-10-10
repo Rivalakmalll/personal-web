@@ -39,7 +39,6 @@ Example .env content
 ```
 SPOTIFY_CLIENT_ID=your_spotify_client_id
 SPOTIFY_CLIENT_SECRET=your_spotify_client_secret
-OPENWEATHER_API_KEY=your_openweather_api_key
 ```
 # 5. Run the Project Locally
 ```bash
