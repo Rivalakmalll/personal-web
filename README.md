@@ -117,7 +117,7 @@ npm run build
 
 ## License
 
-Licensed under the [GPL-3.0 license]().
+Licensed under the [MIT license](https://github.com/Rivalakmalll/personal-webv8?tab=MIT-1-ov-file).
 
 
 
