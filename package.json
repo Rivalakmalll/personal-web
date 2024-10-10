@@ -20,6 +20,7 @@
 		"@cloudflare/workers-types": "^4.20240314.0",
 		"@sveltejs/adapter-auto": "^3.1.1",
 		"@sveltejs/adapter-cloudflare": "^4.2.0",
+		"@sveltejs/adapter-netlify": "^4.3.4",
 		"@sveltejs/kit": "^2.5.4",
 		"@sveltejs/vite-plugin-svelte": "^3.1.0",
 		"@types/dom-view-transitions": "^1.0.4",
