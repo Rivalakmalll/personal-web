@@ -10,7 +10,7 @@ This is a Svelte-based portfolio project that showcases my work and integrates w
 ## acknowledgments
 
 
-This Project Just Rework  By Me here the real source   [source](https://github.com/cubedhuang/portfolio) Anything Changed are under GPL-3.0 license Do Not Claim This Project By Your Self!! if you want contribute feel free or have any bugs / error always open 
+This Project Just Rework  By Me here the real source   [source](https://github.com/cubedhuang/portfolio) Anything Changed are under GPL-3.0 license Do Not Claim This Project By Your Self!! if you want contribute feel free or have any bugs / error always open  to helping 
 
 
 
