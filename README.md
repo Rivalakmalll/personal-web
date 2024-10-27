@@ -5,7 +5,8 @@ This is a Svelte-based portfolio project that showcases my work and integrates w
 - [Spotify API Integration](#spotify-api-integration)
 - [OpenWeather API Integration](#openweather-api-integration)
 - [To Do List](#to-do-list)
--  [Acknowledgments](#acknowledgments)
+- [Acknowledgments](#acknowledgments)
+- [Contribute](#contribute)
 
 ## acknowledgments
 
@@ -96,10 +97,36 @@ npm run build
      let weatherData;
 
      onMount(async () => {
-         const response = await fetch(`https://api.openweathermap.org/data/2.5/weather?q=London&appid=YOUR_API_KEY`);
+         const response = await fetch(`https://api.openweathermap.org/data/2.5/https://github.com/Rivalakmalll/personal-web/blob/main/README.mdweather?q=London&appid=YOUR_API_KEY`);
          weatherData = await response.json();
      });
      ```
+
+
+## How to Contribute
+
+1. **Fork This Repository**: Start by forking this repository to your GitHub account.
+2. **Clone the Repository**: Clone the forked repository to your local machine.
+   ```bash
+   git clone https://github.com/Rivalakmalll/personal-web.git
+   ```
+3. **Create a New Branch**: Create a new branch for your contribution.
+   ```bash
+   git checkout -b feature/your-feature-name
+   ```
+4. **Add Knowledge**: Add a new JSON file or update an existing file with your contribution.
+5. **Commit Changes**: Commit your changes with a descriptive message.
+   ```bash
+   git commit -m "Added Some New"
+   ```
+6. **Push to GitHub**: Push your branch to GitHub.
+   ```bash
+   git push origin feature/your-feature-name
+   ```
+7. **Create a Pull Request**: Go back to the original repository and create a pull request for review.
+
+
+
 
 ### Documentation Links
 - [OpenWeather API Documentation](https://openweathermap.org/api)
